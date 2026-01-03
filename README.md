@@ -21,10 +21,6 @@ Started with HTML/CSS, fell deep into backend engineering, and now I enjoy worki
 
 <a href="http://www.github.com/rishi-18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi-18&stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rishi-18/trade-signal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-18&repo=trade-signal&title_color=ffffff&text_color=ef4444&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rishi-18/github-intern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-18&repo=github-intern&title_color=ffffff&text_color=ef4444&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rishi-18/interwise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-18&repo=interwise&title_color=ffffff&text_color=ef4444&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rishi-18/dataset-algo-recommender" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-18&repo=dataset-algo-recommender&title_color=ffffff&text_color=ef4444&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
